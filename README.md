@@ -1,7 +1,6 @@
-# nexcode-ai-editor
+# nexcode
 
-# NexCode — AI-Powered Code Editor
-
+# NexCode 
 > A full-stack MERN application featuring Monaco Editor (VS Code's engine), Claude AI integration, real-time code execution, and a Copilot-style chat sidebar.
 
 ## ✦ Features
